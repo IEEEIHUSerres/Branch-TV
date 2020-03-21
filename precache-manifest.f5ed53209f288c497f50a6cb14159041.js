@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0e61629d5b9986daa0730a1825b5dc6",
+    "revision": "400d36099b9f3b7412bf24fe4d3dc7f8",
     "url": "/Branch-TV/index.html"
   },
   {
-    "revision": "121a6024c2427948c200",
+    "revision": "c1066be211c25a8d5496",
     "url": "/Branch-TV/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Branch-TV/static/js/2.5d8d02de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "121a6024c2427948c200",
-    "url": "/Branch-TV/static/js/main.229c3bbe.chunk.js"
+    "revision": "c1066be211c25a8d5496",
+    "url": "/Branch-TV/static/js/main.4172090b.chunk.js"
   },
   {
     "revision": "aa6f3412057a322932a5",
     "url": "/Branch-TV/static/js/runtime-main.3a6b8db3.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/Branch-TV/static/media/logo.5d5d9eef.svg"
+    "revision": "bce797f8d2effc7083bcf721aaa771e8",
+    "url": "/Branch-TV/static/media/logo.bce797f8.svg"
   }
 ]);
