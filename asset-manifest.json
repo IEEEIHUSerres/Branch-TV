@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Branch-TV/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Branch-TV/static/js/main.229c3bbe.chunk.js",
+    "main.js.map": "/Branch-TV/static/js/main.229c3bbe.chunk.js.map",
+    "runtime-main.js": "/Branch-TV/static/js/runtime-main.3a6b8db3.js",
+    "runtime-main.js.map": "/Branch-TV/static/js/runtime-main.3a6b8db3.js.map",
+    "static/js/2.5d8d02de.chunk.js": "/Branch-TV/static/js/2.5d8d02de.chunk.js",
+    "static/js/2.5d8d02de.chunk.js.map": "/Branch-TV/static/js/2.5d8d02de.chunk.js.map",
+    "index.html": "/Branch-TV/index.html",
+    "precache-manifest.3f715d0f839770654df0fef4a1ded2d8.js": "/Branch-TV/precache-manifest.3f715d0f839770654df0fef4a1ded2d8.js",
+    "service-worker.js": "/Branch-TV/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Branch-TV/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5d8d02de.chunk.js.LICENSE.txt": "/Branch-TV/static/js/2.5d8d02de.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Branch-TV/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a6b8db3.js",
+    "static/js/2.5d8d02de.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.229c3bbe.chunk.js"
+  ]
+}
