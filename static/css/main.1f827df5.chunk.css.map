@@ -1,0 +1,1 @@
+{"version":3,"sources":["Portal.css","Logo.css"],"names":[],"mappings":"AAIA,6BACI,iBACJ,CCNA,MACI,YACJ","file":"main.1f827df5.chunk.css","sourcesContent":[".logo-holder {\n    text-align: center;\n}\n\n.content-holder {\n    text-align: center;\n}\n",".logo {\n    height: 100px;\n}\n"]}
